@@ -47,7 +47,7 @@ describe("Application", () => {
     const nameElement3 = screen.getByPlaceholderText("Fullname");
     expect(nameElement3).toBeInTheDocument();
 
-    const paragraphElement = screen.getByText("ALl field are mandatory");
+    const paragraphElement = screen.getByText("ALL field are mandatory");
     expect(paragraphElement).toBeInTheDocument();
 
     const nameElement4 = screen.getByDisplayValue("Sandip Deb");

@@ -3,7 +3,7 @@ const Application = () => {
     <>
       <h1>Job application form</h1>
       <h2>Section 1</h2>
-      <p>ALl field are mandatory</p>
+      <p>ALL field are mandatory</p>
       <span title="close">X</span>
 
       <img src="https://dummyimage.com/200x100" alt="a person with a laptop" />
